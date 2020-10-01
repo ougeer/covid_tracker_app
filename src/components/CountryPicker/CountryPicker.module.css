@@ -1,0 +1,6 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    /* must add !important since applying style on the @material-ui component */
+    /* inline styling would also solve the issue */
+}
